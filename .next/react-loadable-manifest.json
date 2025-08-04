@@ -1,26 +1,33 @@
 {
   "components\\Approach.tsx -> ./ui/CanvasRevealEffect": {
-    "id": "components\\Approach.tsx -> ./ui/CanvasRevealEffect",
+    "id": 6801,
     "files": [
-      "static/chunks/_app-pages-browser_components_ui_CanvasRevealEffect_tsx.js"
+      "static/chunks/b536a0f1.85689b935c1a9952.js",
+      "static/chunks/783.8574ebcf7752e7d7.js",
+      "static/chunks/801.1095a717a92e4fed.js"
     ]
   },
   "components\\ui\\GridGlobe.tsx -> ./Globe": {
-    "id": "components\\ui\\GridGlobe.tsx -> ./Globe",
+    "id": 7111,
     "files": [
-      "static/chunks/_app-pages-browser_components_ui_Globe_tsx.js"
+      "static/chunks/b536a0f1.85689b935c1a9952.js",
+      "static/chunks/5e094596.6143310f4909d37d.js",
+      "static/chunks/8ffc485e.4a3805b419067da5.js",
+      "static/chunks/783.8574ebcf7752e7d7.js",
+      "static/chunks/991.d2eff85aee093846.js",
+      "static/chunks/111.360522020cd8fd84.js"
     ]
   },
   "node_modules\\@react-three\\drei\\core\\Text.js -> troika-three-text": {
-    "id": "node_modules\\@react-three\\drei\\core\\Text.js -> troika-three-text",
+    "id": null,
     "files": []
   },
   "node_modules\\@react-three\\drei\\core\\useVideoTexture.js -> hls.js": {
-    "id": "node_modules\\@react-three\\drei\\core\\useVideoTexture.js -> hls.js",
+    "id": null,
     "files": []
   },
   "node_modules\\@react-three\\drei\\web\\FaceLandmarker.js -> @mediapipe/tasks-vision": {
-    "id": "node_modules\\@react-three\\drei\\web\\FaceLandmarker.js -> @mediapipe/tasks-vision",
+    "id": null,
     "files": []
   }
 }
